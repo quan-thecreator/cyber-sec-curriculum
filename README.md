@@ -1,4 +1,7 @@
 # cyber-sec-curriculum
+Goals for this year:
+- More competitions
+- take every excuse to show them a [leaderboard](https://trackscore.online/board/BmYzgSo2kYtP7Zkg9ck7uY)
 
 ## Meeting 1 
 A long and nice introduction of what what we do here in cyber security club.
@@ -17,3 +20,15 @@ Linux basics, linux command [video](https://www.youtube.com/watch?v=gd7BXuUQ91w)
 
 ``git clone https://gitlab.com/slackermedia/bashcrawl ``
 and work on in replit
+
+## Meeting 3 
+Continue working on bashcrawl
+
+Introduce:
+- CTF
+- King Of the Hill 
+- gobuster/feroxbuster
+- making a VM/getting a real hacking environment
+
+Compile a box to make them hack.
+
