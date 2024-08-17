@@ -14,3 +14,6 @@ Linux basics, linux command [video](https://www.youtube.com/watch?v=gd7BXuUQ91w)
 - nmap
 - netcat
 - ssh
+
+``git clone https://gitlab.com/slackermedia/bashcrawl ``
+and work on in replit
